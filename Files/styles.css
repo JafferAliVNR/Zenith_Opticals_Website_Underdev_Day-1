@@ -1,0 +1,62 @@
+h1 {
+  color: red
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  top: 0px;
+  left: 0px;
+}
+
+.header h1 {
+  position: relative;
+  top: 30px;
+  left: 0px;
+  color: white;
+  /* Ask Color Option for Appa */
+  font-size: 250%;
+  font-family: 'Dancing Script', cursive;
+}
+
+body {
+  background-color: black;
+}
+
+.nav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.nav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+}
+
+/* Change the color of links on hover */
+.nav a:hover {
+  background-color: pink;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.nav a.active {
+  background-color: red;
+  color: white;
+}
+
+.Menu {
+  float: center;
+  color: red;
+  background-color: black;
+  position: relative;
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+}
