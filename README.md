@@ -4,4 +4,4 @@ Finished Basic Navigation Layout, Placed Logo and Header
 
 Copyrighted by Sheik Ahamed Iqbal
 
-Completly Coded by Sheik
+Fully Coded by Sheik
